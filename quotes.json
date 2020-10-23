@@ -1,12 +1,12 @@
 {
-  quotes: [
-    {
-       quote: "Sepandai pandainya tupai melompat masih pandai ikan berenang",
-       author: "Shefin G"
-    },
-    {
-       quote: "jadi orang gak usah sombong diatas langit masih ada aku",
-       author: "Shefin Gani"
-    },
-  ]
+   "quotes":[
+      {
+         "quote":"Sepandai pandainya tupai melompat masih pandai ikan berenang",
+         "author":"Shefin G"
+      },
+      {
+         "quote":"jadi orang gak usah sombong diatas langit masih ada aku",
+         "author":"Shefin Gani"
+      }
+   ]
 }
