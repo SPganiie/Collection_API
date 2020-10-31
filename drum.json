@@ -55,7 +55,7 @@
           "url": "https://s3.amazonaws.com/freecodecamp/drums/Cev_H2.mp3"
         }
       ],
-  "drum_2 : [
+  "drum_2" : [
         {
           "key": 81,
           "trigger": "Q",
