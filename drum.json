@@ -1,0 +1,58 @@
+{
+  "drum_1" : [
+  {
+    "key": 81,
+    "trigger": 'Q',
+    "id": 'Heater-1',
+    "url": 'https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3'
+  },
+  {
+    "key": 87,
+    "trigger": 'W',
+    "id": 'Heater-2',
+    "url": 'https://s3.amazonaws.com/freecodecamp/drums/Heater-2.mp3'
+  },
+  {
+    "key": 69,
+    "trigger": 'E',
+    "id": 'Heater-3',
+    "url": 'https://s3.amazonaws.com/freecodecamp/drums/Heater-3.mp3'
+  },
+  {
+    "key": 65,
+    "trigger": 'A',
+    "id": 'Heater-4',
+    "url": 'https://s3.amazonaws.com/freecodecamp/drums/Heater-4_1.mp3'
+  },
+  {
+    "key": 83,
+    "trigger": 'S',
+    "id": 'Clap',
+    "url": 'https://s3.amazonaws.com/freecodecamp/drums/Heater-6.mp3'
+  },
+  {
+    "key": 68,
+    "trigger": 'D',
+    "id": 'Open-HH',
+    "url": 'https://s3.amazonaws.com/freecodecamp/drums/Dsc_Oh.mp3'
+  },
+  {
+    "key": 90,
+    "trigger": 'Z',
+    "id": "Kick-n'-Hat",
+    "url": 'https://s3.amazonaws.com/freecodecamp/drums/Kick_n_Hat.mp3'
+  },
+  {
+    "key": 88,
+    "trigger": 'X',
+    "id": 'Kick',
+    "url": 'https://s3.amazonaws.com/freecodecamp/drums/RP4_KICK_1.mp3'
+  },
+  {
+    "key": 67,
+    "trigger": 'C',
+    "id": 'Closed-HH',
+    "url": 'https://s3.amazonaws.com/freecodecamp/drums/Cev_H2.mp3'
+  }
+]
+}
